@@ -1,0 +1,9 @@
+{
+  "backend/tests/test_api_sessions.py": true,
+  "backend/tests/test_artifact_sanitization.py": true,
+  "backend/tests/test_cloud_provider_configuration.py": true,
+  "backend/tests/test_knowledge.py": true,
+  "backend/tests/test_ollama_provider.py": true,
+  "backend/tests/test_provider_router.py": true,
+  "backend/tests/test_skills.py": true
+}
